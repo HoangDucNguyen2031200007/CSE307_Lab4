@@ -2,7 +2,8 @@
     border: 1px green dashed;
     background-color: rgb(167, 230, 255);
     margin: auto;
-    width: 96%;
+    width: 90%;
+    margin-bottom: 20px;
     padding: 7px;
     padding-bottom: 18px;
     border-radius: 2px;
@@ -17,6 +18,10 @@
 
 form {
     margin-bottom: 0;
+}
+
+fieldset {
+    margin: 30px 15px 15px 15px;
 }
 
 .personal-information {
